@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649383900 source:f:\c workshop\exercise1_4\main.c
+	"TParbre.h"
+
+1649383717 source:f:\c workshop\exercise1_4\tparbre.c
+	"TParbre.h"
+
+1649382734 f:\c workshop\exercise1_4\tparbre.h
+	<stdio.h>
+	<stdlib.h>
+

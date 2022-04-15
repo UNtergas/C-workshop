@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="jeu.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="941" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="data.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="principal.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="767" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="interface.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="87088" topLine="642" />
+		</Cursor>
+		<Folding>
+			<Collapse line="351" />
+			<Collapse line="385" />
+			<Collapse line="416" />
+			<Collapse line="454" />
+			<Collapse line="529" />
+			<Collapse line="628" />
+			<Collapse line="702" />
+			<Collapse line="801" />
+			<Collapse line="935" />
+			<Collapse line="952" />
+			<Collapse line="969" />
+			<Collapse line="986" />
+			<Collapse line="1006" />
+			<Collapse line="1024" />
+			<Collapse line="1041" />
+			<Collapse line="1058" />
+			<Collapse line="1078" />
+			<Collapse line="1095" />
+			<Collapse line="1112" />
+			<Collapse line="1129" />
+			<Collapse line="1146" />
+			<Collapse line="1164" />
+			<Collapse line="1181" />
+			<Collapse line="1198" />
+			<Collapse line="1218" />
+			<Collapse line="1275" />
+			<Collapse line="1331" />
+			<Collapse line="1426" />
+			<Collapse line="1460" />
+			<Collapse line="1462" />
+			<Collapse line="1494" />
+			<Collapse line="1496" />
+			<Collapse line="1780" />
+			<Collapse line="1879" />
+			<Collapse line="2013" />
+			<Collapse line="2030" />
+			<Collapse line="2047" />
+			<Collapse line="2064" />
+			<Collapse line="2084" />
+			<Collapse line="2102" />
+			<Collapse line="2119" />
+			<Collapse line="2136" />
+			<Collapse line="2138" />
+			<Collapse line="2140" />
+			<Collapse line="2145" />
+			<Collapse line="2259" />
+			<Collapse line="2261" />
+			<Collapse line="2263" />
+			<Collapse line="2268" />
+			<Collapse line="2276" />
+			<Collapse line="2278" />
+			<Collapse line="2280" />
+			<Collapse line="2285" />
+		</Folding>
+	</File>
+	<File name="interface.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="402" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="jeu.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

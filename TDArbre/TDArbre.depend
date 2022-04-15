@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1648169815 source:f:\c workshop\tdarbre\main.c
+	"arbre.h"
+
+1648173531 source:f:\c workshop\tdarbre\arbre.c
+	"arbre.h"
+
+1648173531 f:\c workshop\tdarbre\arbre.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1648167771 source:f:\c workshop\tdarbre\challenger.c
+	"arbre.h"
+

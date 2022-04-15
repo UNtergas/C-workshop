@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1646588124 source:f:\c workshop\arbre\main.c
+	"arbre.h"
+	"queue.h"
+
+1646587688 f:\c workshop\arbre\arbre.h
+	<stdio.h>
+	<stdlib.h>
+
+1646588668 source:f:\c workshop\arbre\arbre.c
+	"arbre.h"
+	"queue.h"
+
+1646141963 f:\c workshop\arbre\stack.h
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1646141905 source:f:\c workshop\arbre\stack.c
+	"stack.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1646576756 source:f:\c workshop\arbre\queue.c
+	"queue.h"
+	"arbre.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1646576292 f:\c workshop\arbre\queue.h
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+

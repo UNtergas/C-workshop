@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1639839327 source:f:\c workshop\liste-chaînée\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1639839031 source:f:\c workshop\liste-chaînée\liste.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1639837489 f:\c workshop\liste-chaînée\liste.h
+	<stdio.h>
+	"stdbool.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1623139402 source:f:\c workshop\checss\interface.c
+	"interface.h"
+
+1623120293 f:\c workshop\checss\interface.h
+	"data.h"
+	"windows.h"
+
+1590340880 f:\c workshop\checss\data.h
+	<stdio.h>
+	<stdlib.h>
+
+1590340894 source:f:\c workshop\checss\jeu.c
+	"jeu.h"
+
+1590340664 f:\c workshop\checss\jeu.h
+	"data.h"
+
+1623120645 source:f:\c workshop\checss\principal.c
+	"data.h"
+	"interface.h"
+	"jeu.h"
+
